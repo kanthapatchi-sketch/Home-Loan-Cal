@@ -1,0 +1,6 @@
+{
+  "name": "Home Loan Step Calculator",
+  "description": "เครื่องมือคำนวณและวางแผนการผ่อนชำระสินเชื่อบ้านแบบลดต้นลดดอก รองรับการปรับอัตราดอกเบี้ยและยอดผ่อนแบบขั้นบันได (Step)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
